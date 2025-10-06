@@ -14,7 +14,7 @@ let heartRate;
 
 function handleRateChange(event) {
   //bpmTxt.textContent = parseHeartRate(event.target.value);
-  console.log("WEIMA\n");
+  console.log("mensagem recebida\n");
 }
 
 
